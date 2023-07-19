@@ -3,8 +3,9 @@
   color: white;
   background-color: black;
   display: inline-block;
+  list-style-type: none;
 }
 
-header{
-  width: 100%;
+header {
+  width: 100px;
 }
