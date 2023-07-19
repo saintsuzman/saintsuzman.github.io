@@ -5,7 +5,7 @@
   display: inline-block;
   list-style-type: none;
   margin: 100px;
-  justify-content: space-between;
+  width: 100%;
 }
 
 header {
