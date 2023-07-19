@@ -1,4 +1,6 @@
 .navbar {
+  font-family: Helvetica;
   color: white;
   background-color: black;
+  display: inline-block;
 }
