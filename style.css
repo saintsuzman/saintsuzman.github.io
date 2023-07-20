@@ -30,8 +30,9 @@ header {
 
 .profile-photo{
   height:400px;
-  width:auto;
-  position: ;
+  width: auto;
+  position: relative;
+  left: 50%;
 }
 
 /* unvisited link */
@@ -41,7 +42,7 @@ a:link {
 
 /* visited link */
 a:visited {
-  color: green;
+  color: white;
 }
 
 /* mouse over link */
