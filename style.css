@@ -14,6 +14,7 @@ HTML, body {
   position: relative;
   top: 0px;
   
+  
 }
 
 header {
@@ -23,4 +24,5 @@ header {
 
 .navlist{
   float: left;
+  padding: 100px;
 }
