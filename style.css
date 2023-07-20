@@ -4,6 +4,9 @@ HTML, body {
   background-image: url("Untitled design.png");
 }
 
+p {
+  font-family: cormorant-garamond;
+}
 .navbar {
   color: white;
   background-color: black;
@@ -26,7 +29,7 @@ header {
 .navlist{
   float: left;
   padding:50px 100px;
-  font-family: 'Helvetica';
+  font-family: cormorant-garamond;
   
 }
 
