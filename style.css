@@ -26,3 +26,8 @@ header {
   float: left;
   padding: 100px;
 }
+
+.profile-photo{
+  height:200px;
+  width:200px;
+}
