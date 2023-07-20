@@ -27,6 +27,7 @@ header {
   float: left;
   padding: 50px;
   font-family: 'Helvetica';
+  padding-right: 50px;
 }
 
 .profile-photo{
