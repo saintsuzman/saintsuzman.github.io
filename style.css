@@ -5,7 +5,8 @@ HTML, body {
 }
 
 p {
-  font-family: cormorant-garamond;
+  font-family: cormorantgaramond-regular;
+  src: url('cormorantgaramond-regular.ttf')
 }
 .navbar {
   color: white;
