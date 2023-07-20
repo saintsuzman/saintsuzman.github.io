@@ -4,7 +4,6 @@ HTML, body {
 }
 
 .navbar {
-  font-family: 'Helvetica';
   color: white;
   background-color: black;
   display: inline-block;
@@ -13,6 +12,7 @@ HTML, body {
   width: 100%;
   position: relative;
   top: 0px;
+  height: 100px
   
   
 }
@@ -24,7 +24,8 @@ header {
 
 .navlist{
   float: left;
-  padding: 100px;
+  padding: 200px;
+  font-family: 'Helvetica';
 }
 
 .profile-photo{
