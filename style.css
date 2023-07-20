@@ -4,8 +4,9 @@
   background-color: black;
   display: inline-block;
   list-style-type: none;
-  margin: 100px;
+  margin: 0px;
   width: 100%;
+  
 }
 
 header {
