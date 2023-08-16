@@ -4,10 +4,19 @@ HTML, body {
   background-image: url("Untitled design.png");
 }
 
-p {
-  font-family: cormorantgaramond-regular;
-  src: url('cormorantgaramond-regular.ttf')
+h1{
+  font-family: "EB Garamond";
+  font-weight: 1000;
+  text-align: center;
 }
+
+h2{
+font-family: "EB Garamond";
+}
+
+p {
+  font-family: "EB Garamond";
+  }
 .navbar {
   color: white;
   background-color: black;
@@ -30,7 +39,7 @@ header {
 .navlist{
   float: left;
   padding:50px 100px;
-  font-family: cormorant-garamond;
+  font-family: "Josefin Sans";
   
 }
 
@@ -60,3 +69,31 @@ a:hover {
 a:active {
   color: white;
 }
+
+.abtcour{
+  background-color: tan;
+  text-align: left;
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  top: 100px, 50px;
+  width: 500px;
+  height: 300px;
+  margin: 10px;
+  padding: 20px;
+}
+
+.abtencour{
+  background-color: tan;
+  text-align: left;
+  vertical-align: middle;
+  display: inline-block;
+  position: relative;
+  top: 100px, 200px;
+  width: 500px;
+  height: 300px;
+  margin: 10px;
+  padding: 20px;
+}
+ 
+  
